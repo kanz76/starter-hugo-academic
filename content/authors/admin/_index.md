@@ -5,8 +5,8 @@ avatar_filename: wechat-image_20181125132521.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Machine Learning
-  - Graph Neural Network
+  - Deep Learning
+  - Graph Neural Networks
 social:
   - icon: envelope
     icon_pack: fas
