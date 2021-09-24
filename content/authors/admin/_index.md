@@ -2,8 +2,8 @@
 title: Arnold Kazadi Nyamabo
 role: MSc Student in Computer Science
 avatar_filename: avatar.jpg
-bio: My research interests include deep learning in general, but specifically
-  graph neural networks.
+bio: My research interests broadly include deep learning in general with special
+  focus graph neural networks and their applications.
 interests:
   - Deep Learning
   - Graph Neural Networks
