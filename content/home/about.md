@@ -8,6 +8,6 @@ weight: 20
 title: About Me
 design:
   background:
-    image: wechat-image_20181125132521.jpg
+    image: ""
 ---
 I am an MSc student in computer science at Northwestern Polytechnical
