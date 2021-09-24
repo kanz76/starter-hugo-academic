@@ -2,8 +2,8 @@
 title: Arnold Kazadi Nyamabo
 role: MSc Student in Computer Science
 avatar_filename: wechat-image_20181125132521.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include deep learning in general, but specifically
+  graph neural networks.
 interests:
   - Deep Learning
   - Graph Neural Networks
