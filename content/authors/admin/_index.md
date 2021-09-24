@@ -1,11 +1,11 @@
 ---
 title: Arnold Kazadi Nyamabo
-role: Msc Student in Computer Science
+role: MSc Student in Computer Science
 avatar_filename: wechat-image_20181125132521.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Machine-Learning;Graph-Neural-Networks
+  - Machine Learning; Graph Neural Network
 social:
   - icon: envelope
     icon_pack: fas
